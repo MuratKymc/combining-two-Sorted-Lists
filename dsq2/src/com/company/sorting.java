@@ -4,6 +4,9 @@ import java.util.ArrayList;
 
 public class sorting {
 
+    //this class extra.I used Selection Sort to sort a number from smallest to largest
+
+    
     public static void selectionSort(ArrayList<Integer> inputArray) {
 
             int smallInt = 0;
